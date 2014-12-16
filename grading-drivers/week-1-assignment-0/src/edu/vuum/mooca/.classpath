@@ -1,0 +1,17 @@
+
+<!-- saved from url=(0116)https://raw.githubusercontent.com/douglascraigschmidt/POSA-14/master/grading-drivers/week-1-assignment-0/.classpath# -->
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"></head><body style=""><div id="StayFocusd-infobar" style="display: none;">
+    <img src="chrome-extension://laankejkbhbdhmipfmgcngdelahlfoji/common/img/eye_19x19_red.png">
+    <span id="StayFocusd-infobar-msg"></span>
+    <span id="StayFocusd-infobar-links">
+        <a href="./mooca_files/.classpath" id="StayFocusd-infobar-never-show">hide forever</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+        <a href="./mooca_files/.classpath" id="StayFocusd-infobar-hide">hide once</a>
+    </span>
+</div><pre style="word-wrap: break-word; white-space: pre-wrap;">&lt;?xml version="1.0" encoding="UTF-8"?&gt;
+&lt;classpath&gt;
+	&lt;classpathentry kind="src" path="src"/&gt;
+	&lt;classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.6"/&gt;
+	&lt;classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/&gt;
+	&lt;classpathentry kind="output" path="bin"/&gt;
+&lt;/classpath&gt;
+</pre></body></html>

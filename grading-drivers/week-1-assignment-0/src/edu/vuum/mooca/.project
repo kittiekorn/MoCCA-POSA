@@ -1,0 +1,27 @@
+
+<!-- saved from url=(0114)https://raw.githubusercontent.com/douglascraigschmidt/POSA-14/master/grading-drivers/week-1-assignment-0/.project# -->
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"></head><body style=""><div id="StayFocusd-infobar" style="display: none;">
+    <img src="chrome-extension://laankejkbhbdhmipfmgcngdelahlfoji/common/img/eye_19x19_red.png">
+    <span id="StayFocusd-infobar-msg"></span>
+    <span id="StayFocusd-infobar-links">
+        <a href="./mooca_files/.project" id="StayFocusd-infobar-never-show">hide forever</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+        <a href="./mooca_files/.project" id="StayFocusd-infobar-hide">hide once</a>
+    </span>
+</div><pre style="word-wrap: break-word; white-space: pre-wrap;">&lt;?xml version="1.0" encoding="UTF-8"?&gt;
+&lt;projectDescription&gt;
+	&lt;name&gt;W1-A0-SynchronizedQueueTest-Grading&lt;/name&gt;
+	&lt;comment&gt;&lt;/comment&gt;
+	&lt;projects&gt;
+	&lt;/projects&gt;
+	&lt;buildSpec&gt;
+		&lt;buildCommand&gt;
+			&lt;name&gt;org.eclipse.jdt.core.javabuilder&lt;/name&gt;
+			&lt;arguments&gt;
+			&lt;/arguments&gt;
+		&lt;/buildCommand&gt;
+	&lt;/buildSpec&gt;
+	&lt;natures&gt;
+		&lt;nature&gt;org.eclipse.jdt.core.javanature&lt;/nature&gt;
+	&lt;/natures&gt;
+&lt;/projectDescription&gt;
+</pre></body></html>
