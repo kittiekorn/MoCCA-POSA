@@ -8,4 +8,6 @@ The projects I completed for Dr. Douglas Schmidt's Pattern-Oriented Software Arc
 
 These projects focused on creating applications that worked on an Galaxy Nexus using API 19. In completing the course with a verified certificate with distinction, I was able to move on in the next course in the series. My grade for the class was 71.5, and was totaled from completion of the projects and quizzes.
 
+I will be updating this repo with the work I completed for this class, as some of my files were missing from the original upload.
+
 For more information on the class and to view my certificate, see https://www.coursera.org/account/accomplishments/records/ZZ5EB8GeNEvnXQG3
